@@ -1,6 +1,7 @@
 # masterserverlist-vuetify
 
-> A Vue.js project
+> Master Server List - To view the application/site check out the below URL: 
+https://masterserverlist.learningautomation.io:54003
 
 ## Build Setup
 
